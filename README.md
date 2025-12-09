@@ -1,9 +1,9 @@
 # Coworking-site
 A simple design of a website that showcases a series of co-working spaces.
 
-![Demo1](.images/Demo1.png)
+![Demo1](./images/Demo1.png)
 
-![Demo2](.images/Demo2.png)
+![Demo2](./images/Demo2.png)
 
 ## Design
 * Tabbable navigator's icons.
